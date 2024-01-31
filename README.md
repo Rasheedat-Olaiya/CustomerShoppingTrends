@@ -64,6 +64,12 @@ The analysis results are summarized as follows:
 2. There is no correlation between having a subscription and making frequent purchases
 3. The Female gender makes the most purchase.
 
+### Recommendations
+
+Based on the analysis, I recommend the following actions:
+- Focus on expanding and promoting products across various categories and segments.
+- Encourage the male gender to make more purchase
+
 
 ### Limitations
 
